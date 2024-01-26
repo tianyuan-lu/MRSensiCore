@@ -1,6 +1,6 @@
 #' Sensitivity analysis
 #'
-#' Rank core instruments by significance (z-score)
+#' Rank core instruments by significance (z-score, normalized by sample size)
 #'
 #' @param harmonized_data output of TwoSampleMR::harmonise_data()
 #' @param K number of instrument groups, default = 5
