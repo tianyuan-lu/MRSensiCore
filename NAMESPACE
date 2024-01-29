@@ -3,6 +3,7 @@
 export(Qstatistic)
 export(mr_sens_beta)
 export(mr_sens_h2)
+export(mr_sens_h2_nonnorm_exposure)
 export(mr_sens_z)
 export(mr_sens_z_normalized)
 export(permute_core_instrument)
